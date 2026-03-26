@@ -3,7 +3,7 @@ class Flutree < Formula
   homepage "https://github.com/EndersonPro/flutree"
   version "0.9.1"
   url "https://github.com/EndersonPro/flutree/releases/download/v#{version}/flutree-#{version}-macos-arm64.tar.gz"
-  sha256 "163ac2be4f3749a456c68bbfb68ad9ca08d51999040c401daf41a8e4e79d25d0"
+  sha256 "b17ed2f879f01c0599990e664252b1c4276cb56281fa91c106e08d60b709a379"
   license "MIT"
 
   def install
