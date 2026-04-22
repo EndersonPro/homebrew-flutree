@@ -1,9 +1,9 @@
 class Flutree < Formula
   desc "Flutter Worktree CLI for managing git worktree workflows"
   homepage "https://github.com/EndersonPro/flutree"
-  version "0.15.1"
-  url "https://github.com/EndersonPro/flutree/releases/download/v0.15.1/flutree-0.15.1-macos-arm64.tar.gz"
-  sha256 "670b8f31356813b17e58ffc3303c17c91bacdee3078cb9312ab9a2456868b59f"
+  version "0.16.0"
+  url "https://github.com/EndersonPro/flutree/releases/download/v0.16.0/flutree-0.16.0-macos-arm64.tar.gz"
+  sha256 "380bbfdf822099c5578ae065e8501ef04991c1c91afe9c32362139cdb374fa62"
   license "MIT"
 
   def install
